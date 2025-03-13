@@ -56,8 +56,7 @@ export default function RythmeSection() {
         </div>
         <div className=" flex justify-center md:justify-start">
           <ButtonLink
-            href="#"
-            target="_blank"
+            href="#rejoindre"
             children={"Découvrir nos programmes"}
             className="w-max border-2 border-gray-300 bg-gray-200 text-[#3643BA] hover:text-white px-6 py-3 rounded-[4px] hover:bg-gray-900 active:bg-gray-600"
           />
@@ -78,8 +77,7 @@ export default function RythmeSection() {
           </p>
           <div className="space-y-4 mb-6 sm:mb-8  flex justify-center md:justify-start">
             <ButtonLink
-              href="#"
-              target="_blank"
+              href="#footer"
               children={"Découvrir l’app"}
               className="w-max border-2 my-4 border-gray-300 bg-gray-200 text-[#3643BA] hover:text-white px-6 py-3 rounded-[4px] hover:bg-gray-900 active:bg-gray-600"
             />
