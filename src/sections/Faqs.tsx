@@ -8,15 +8,18 @@ export default function Faqs() {
     },
     {
       title: "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum ?",
-      description: "gjjkhkjhkhkjhkjjhk",
+      description:         "Nous vous aidons à faire le nécéssaire afin de préserver votre santé dans le temps, tout en prenant du plaisir !",
+
     },
     {
       title: "Nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat ?",
-      description: "gjjkhkjhkhkjhkjjhk",
+      description:         "Nous vous aidons à faire le nécéssaire afin de préserver votre santé dans le temps, tout en prenant du plaisir !",
+
     },
     {
       title: "Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut non proident, sunt in culpa qui ?",
-        description: "gjjkhkjhkhkjhkjjhk",
+        description:         "Nous vous aidons à faire le nécéssaire afin de préserver votre santé dans le temps, tout en prenant du plaisir !",
+
     },
   ];
 

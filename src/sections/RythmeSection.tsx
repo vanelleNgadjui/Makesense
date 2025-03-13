@@ -1,5 +1,5 @@
 import Accordion from "../common/Accordion";
-import Image from "../assets/hero.png";
+import Objectif from "../assets/objectifs.png";
 import Joging from "../assets/joging.png";
 import Rejoindre from "../assets/rejoindre.png";
 import ButtonLink from "../common/ButtonLink.tsx";
@@ -10,12 +10,11 @@ export default function RythmeSection() {
       title: "Le Jogging",
       description:
         "Prenez votre courage à deux pieds et challengez-vous seul.e ou à plusieurs dans des parcours immersifs et personnalisés !",
-      showCheckbox: true,
     },
     {
       title: "La Marche à pied",
-      description: "gjjkhkjhkhkjhkjjhk",
-      showCheckbox: true,
+      description:         "Nous vous aidons à faire le nécéssaire afin de préserver votre santé dans le temps, tout en prenant du plaisir !",
+
     },
   ];
 
@@ -24,17 +23,16 @@ export default function RythmeSection() {
       title: "Garder la forme",
       description:
         "Nous vous aidons à faire le nécéssaire afin de préserver votre santé dans le temps, tout en prenant du plaisir !",
-      showCheckbox: true,
     },
     {
       title: "Perdre du poid",
-      description: "gjjkhkjhkhkjhkjjhk",
-      showCheckbox: true,
+      description:         "Nous vous aidons à faire le nécéssaire afin de préserver votre santé dans le temps, tout en prenant du plaisir !",
+
     },
     {
       title: "Se tonifier",
-      description: "gjjkhkjhkhkjhkjjhk",
-      showCheckbox: true,
+      description:         "Nous vous aidons à faire le nécéssaire afin de préserver votre santé dans le temps, tout en prenant du plaisir !",
+
     },
   ];
 
@@ -104,7 +102,7 @@ export default function RythmeSection() {
         <div className="w-full lg:w-1/2 h-fit flex justify-center">
           <img
             className="max-w-md w-full h-auto object-cover shadow-lg"
-            src={Image}
+            src={Objectif}
             alt="des personnes qui courent"
           />
         </div>
