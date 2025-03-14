@@ -17,7 +17,7 @@ function Nav() {
               href="https://play.google.com"
               target="_blank"
               children={"Télécharger l’app"}
-              className="active:bg hidden bg-[#3643BA] px-5 py-3 text-white hover:bg-gray-900 active:bg-gray-600 sm:flex"
+              className="active:bg hidden bg-[#3643BA] px-5 py-3 text-white hover:bg-gray-900 active:bg-gray-600 md:flex"
             />
 
           </div>
