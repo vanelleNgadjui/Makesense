@@ -17,8 +17,7 @@ function Download() {
         </h2>
         <p className="max-w-lg text-[#000000]">
           L’application est déjà disponible PARTOUT,
-          <br/>
-          alors n’hésitez plus !
+          <br className="hidden md:block"/> alors n’hésitez plus !
           On y va !
         </p>
           </div>
